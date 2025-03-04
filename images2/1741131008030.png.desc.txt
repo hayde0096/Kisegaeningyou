@@ -1,0 +1,1 @@
+print apron, blue apron, black bow, striped bow, black bowtie, name tag, striped clothes, white shirt, short sleeves, blue shorts, white sneakers, blue headscarf,
