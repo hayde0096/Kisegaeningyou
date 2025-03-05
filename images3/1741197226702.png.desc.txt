@@ -1,0 +1,1 @@
+(antlers:1.2), armband, armor, arrow \(projectile\), bow \(weapon\), breastplate, brown belt, chiton, hair bun, holding bow\(weapon\), quiver, single glove,
